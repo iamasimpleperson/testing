@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
 
-  
-  
+  // this is the entry point
   runApp(const MyApp());
 }
 
